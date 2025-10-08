@@ -2,7 +2,7 @@
 
 * Студент: [Анатолий Рычков](https://up.htmlacademy.ru/htmlcss-individual/2/user/852363).
 * Наставник: [Екатерина Комнатная](https://htmlacademy.ru/profile/id215761).
-
+* Сайт:[Мой проект Седона](https://ganswidelman.github.io/852363-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
